@@ -35,7 +35,7 @@ jobs:
       run: npm i -g snyk-to-html  
                
     # Install Snyk Filter 
-    - name: Install SNyk Filter
+    - name: Install Snyk Filter
       run: npm i -g snyk-filter
 
     # Run Snyk OpenSource Test
